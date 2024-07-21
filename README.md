@@ -8,14 +8,15 @@
 ## Hardware requirements
 
 The package development version is tested on Linux operating systems.
+
 Linux: Ubuntu 16.04
+
 CUDA/cudnn:10.1
 
-## Prerequisite
+## Python Dependencies
 ```
-> - CUDA/CUDNN
 > - Python3
-> - PyTorch==1.13
+> - PyTorch-cuda ==1.13
 ```
 ### Prepare dataset
 
