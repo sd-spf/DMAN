@@ -3,13 +3,21 @@
 # DMAN
 “An AI-assisted fluorescence microscopic system for screening mitophagy inducers by simultaneous analysis of mitophagic intermediates” in AI Framework-DMAN
 
-# Prerequisite
+# Software Requirements
+
+## Hardware requirements
+
+The package development version is tested on Linux operating systems.
+Linux: Ubuntu 16.04
+CUDA/cudnn:10.1
+
+## Prerequisite
 ```
 > - CUDA/CUDNN
 > - Python3
 > - PyTorch==1.13
 ```
-3. Prepare dataset
+### Prepare dataset
 
 Organize the folder as follows:
 
