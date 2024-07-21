@@ -38,7 +38,7 @@ Organize the folder as follows:
 python main.py
 ```
 ### Evaluation
-
+Download our result checkpoint and test sample image from following:[URL](https://postechackr-my.sharepoint.com/:u:/g/personal/taehoon1018_postech_ac_kr/EawsLUvLsG5LoOeJxYdF5g0BMcv-n6Wn40ETeDDtNyeDmg?e=WMjIqx)
 ```
 python test.py
 ```
