@@ -31,7 +31,7 @@ def custom_colormap(im,gray_image):
     return im3,colored_image
 
 if __name__=='__main__':
-    device = torch.device("cuda:2" if torch.cuda.is_available() else "cpu")
+    device = torch.device("cuda:0" if torch.cuda.is_available() else "cpu")
 
     data_transformRGB = transforms.Compose(
         [transforms.ToTensor(),
@@ -41,7 +41,7 @@ if __name__=='__main__':
 
     # load image
 
-    img_path = "test_images/"
+    img_path = "dataset/test/"
     out_dir = "./result/"
 
     if not os.path.exists(out_dir):
