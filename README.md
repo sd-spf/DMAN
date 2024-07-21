@@ -11,8 +11,8 @@
 
 The package development version is tested on Linux operating systems.
 
-Linux: Ubuntu 16.04 with a single A10(24GB) GPU
-
+Linux: Ubuntu 16.04
+window: window 10 
 CUDA/cudnn:10.1
 
 ## Python Dependencies
