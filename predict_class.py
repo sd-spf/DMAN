@@ -115,7 +115,6 @@ if __name__=='__main__':
 
                 total_pixels = window_size * window_size
                 black_ratio = black_pixel_count / total_pixels
-                print(black_ratio)
                 if black_ratio>0.9:
                     if (window_size+i == H and window_size + j == W):
                         b=b+window_size*window_size
