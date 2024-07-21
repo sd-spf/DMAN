@@ -19,7 +19,7 @@ Organize the folder as follows:
 |   |   ├── class1/
 |   |   |   ├── 32/
 |   |   |   ├── 128/
-|   |   |── class2/
+|   |   ├── class2/
 |   |   |   ├── 32/
 |   |   |   ├── 128/
 │   ├── test/
