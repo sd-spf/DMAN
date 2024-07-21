@@ -17,7 +17,7 @@ CUDA/cudnn:10.1
 
 ## Python Dependencies
 ```
-> - Python3
+> - Python
 > - PyTorch-cuda
 > - torchvision
 > - opencv
