@@ -9,7 +9,7 @@
 
 The package development version is tested on Linux operating systems.
 
-Linux: Ubuntu 16.04
+Linux: Ubuntu 16.04(a single A10(24GB) GPU)
 
 CUDA/cudnn:10.1
 
