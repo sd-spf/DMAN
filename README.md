@@ -22,10 +22,10 @@ Organize the folder as follows:
 |   |   |-- class1
 |   |   |   |-- 32
 |   |   |   |-- 128
-         ...
+|   |   |-- ...
 |   |-- test/
-|   |-- image1.png
-|   |-- image2.png
+|   |   |-- image1.png
+|   |   |-- image2.png
 ...
 ```
 # Training and Evaluation example
