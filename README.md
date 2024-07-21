@@ -16,7 +16,12 @@ CUDA/cudnn:10.1
 ## Python Dependencies
 ```
 > - Python3
-> - PyTorch-cuda ==1.13
+> - PyTorch-cuda
+> - torchvision
+> - opencv
+> - numpy
+> - json
+> - os
 ```
 ### Prepare dataset
 
