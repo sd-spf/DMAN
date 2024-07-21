@@ -16,16 +16,15 @@ Organize the folder as follows:
 ```
 ├── ../../dataset/
 │   ├── train/     
-|   |   ├── class1/
-|   |   |   ├── 32/
-|   |   |   ├── 128/
-|   |   ├── class2/
-|   |   |   ├── 32/
-|   |   |   ├── 128/
+|   |   |── class1/
+|   |   |   |── 32/
+|   |   |   |── 128/
+|   |   |── class2/
+|   |   |   |── 32/
+|   |   |   |── 128/
 │   ├── test/
-|   |   ├── images1.png
-|   |   ├── images2.png
-
+|   |   |── images1.png
+|   |   |── images2.png
 ...
 ```
 # Training and Evaluation example
